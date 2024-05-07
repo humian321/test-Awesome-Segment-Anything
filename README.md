@@ -13,7 +13,94 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
-____
+* **State Space Model for New-Generation Network Alternative to Transformers: A Survey.** [15 April 2024] [ArXiv, 2024]<br/>
+*Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong,  Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bowei Jiang,  Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang.*<br/>[[Paper]](https://arxiv.org/abs/2404.09516) [[github](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
+
+
+
+
+- **State Space Model for New-Generation Network Alternative to Transformers: A Survey.** [15 April 2024] [ArXiv, 2024]<br/>
+  *Xiao Wang, Shiao Wang, Yuhe Ding, Yuehang Li, Wentao Wu, Yao Rong,  Weizhe Kong, Ju Huang, Shihao Li, Haoxiang Yang, Ziwen Wang, Bowei Jiang,  Chenglong Li, Yaowei Wang, Yonghong Tian, Jin Tang.*<br/>[[Paper]](https://arxiv.org/abs/2404.09516) [[github](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List)]
+- **A Survey on Visual Mamba.** [26 April, 2024] [ArXiv, 2024]<br/>
+  *Hanwei Zhang, Ying Zhu, Dan Wang, Lijun Zhang, Tianxiang Chen, Zi Ye.*<br/>
+  [[Paper](https://arxiv.org/abs/2404.15956)] 
+- 
+
+
+- **FD-Vision Mamba for Endoscopic Exposure Correction.** [14 February, 2024] [ArXiv, 2024]<br/>
+  *Zhuoran Zheng, Jun Zhang.*<br/>
+  [[Paper]](https://arxiv.org/abs/2402.06378) [[Code](https://github.com/zzr-idam/FDV-NET)]
+- **MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation.** [19 March, 2024] [ArXiv, 2024]<br/>
+  *Jiahao Huang, Liutao Yang, Fanwen Wang, Yinzhe Wu, Yang Nan, Angelica I. Aviles-Rivero, Carola-Bibiane Schönlieb, Daoqiang Zhang, Guang Yang.*<br/>
+[[Paper]](https://arxiv.org/abs/2402.06378) [[Code]](https://github.com/zzr-idam/FDV-NET)
+
+
+[toc]
+
+
+
+
+## Contents
+
+- [Related Survey](#related-survey)
+  - [High-level/Mid-level Vision](##1 High-level/Mid-level Vision)
+    - [Vision Backbone with Mamba](#1.1 Vision Backbone with Mamba)
+    - [Video Analysis and Understanding](#1.2 Video Analysis and Understanding)
+    - [Down-stream Visual Applications](#1.3 Down-stream Visual Applications)
+  - [Low-level Vision](#2 Low-level Vision)
+
+- [General Vision](#General Vision)
+- [Vision Application (Modality)](#vision-application)
+  - [Image](#image)
+    - [Natural Image](#natural-image)
+    - [Remote Sensing Image](#remote-sensing-image)
+    - [Medical Image](#medical-image)
+  - [Video](#video)
+  - [Multi-Modal](#multi-modal)
+  - [Point Cloud](#point-cloud)
+  - [Others](#others)
+- [Other Domains](#other-domains)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Graph Learning](#graph-learning)
+  - [Mixture of Experts](
+
+
+
+
+
+
+
+## General Vision
+
+#### 1 High-level/Mid-level Vision
+
+- **Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model.** [10 February, 2024] [ArXiv, 2024]<br/>
+  *Lianghui Zhu, Bencheng Liao, Qian Zhang, Xinlong Wang, Wenyu Liu, Xinggang Wang.*<br/>
+  [[Paper]](https://arxiv.org/abs/2401.09417) [[github](https://github.com/hustvl/Vim)]
+- **VMamba: Visual State Space Model.** [10 April, 2024] [ArXiv, 2024]<br/>
+  *Yue Liu, Yunjie Tian, Yuzhong Zhao, Hongtian Yu, Lingxi Xie, Yaowei Wang, Qixiang Ye, Yunfan Liu*<br/>
+  [[Paper]](https://arxiv.org/abs/2401.10166) [[github](https://github.com/MzeroMiko/VMamba)]
+
+
+## Contents
+
+- [Related Survey](#related-survey)
+- [General Vision](#)
+- [Vision Application (Modality)](#vision-application)
+  - [Image](#image)
+    - [Natural Image](#natural-image)
+    - [Remote Sensing Image](#remote-sensing-image)
+    - [Medical Image](#medical-image)
+  - [Video](#video)
+  - [Multi-Modal](#multi-modal)
+  - [Point Cloud](#point-cloud)
+  - [Others](#others)
+- [Other Domains](#other-domains)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Graph Learning](#graph-learning)
+  - [Mixture of Experts](#moe)
+* sdfsdf
+* dfsdsdf
 
 ## 😮 Highlights
 ```
