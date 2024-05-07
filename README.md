@@ -49,7 +49,7 @@
     - [Down-stream Visual Applications](#1.3 Down-stream Visual Applications)
   - [Low-level Vision](#2 Low-level Vision)
 
-- [General Vision](#General Vision)
+- [General Vision](#General-Vision)
 - [Vision Application (Modality)](#vision-application)
   - [Image](#image)
     - [Natural Image](#natural-image)
