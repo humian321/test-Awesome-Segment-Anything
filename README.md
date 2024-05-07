@@ -43,7 +43,7 @@
 ## Contents
 
 - [Related Survey](#related-survey)
-  - [High-level/Mid-level Vision](##1 High-level/Mid-level Vision)
+  - [High-level/Mid-level Vision](#1-High-level/Mid-level-Vision)
     - [Vision Backbone with Mamba](#1.1 Vision Backbone with Mamba)
     - [Video Analysis and Understanding](#1.2 Video Analysis and Understanding)
     - [Down-stream Visual Applications](#1.3 Down-stream Visual Applications)
